@@ -1,8 +1,8 @@
-\# VerizonSupport AI Support Agent — Take-Home Report
+# VerizonSupport AI Support Agent — Take-Home Report
 
 
 
-\## 1. Problem Framing
+## 1. Problem Framing
 
 
 
@@ -10,13 +10,13 @@ The goal is to build a support agent for VerizonSupport that can:
 
 
 
-1\. classify an incoming customer message into a defined intent,
+1. classify an incoming customer message into a defined intent,
 
-2\. retrieve historical support interactions that can provide evidence for a response,
+2. retrieve historical support interactions that can provide evidence for a response,
 
-3\. draft a response grounded in historical resolutions,
+3. draft a response grounded in historical resolutions,
 
-4\. decide whether the case can be auto-handled or should be escalated.
+4. decide whether the case can be auto-handled or should be escalated.
 
 
 
@@ -62,11 +62,11 @@ I12 is intentionally conservative: messages without enough information to suppor
 
 
 
-\---
+---
 
 
 
-\## 2. Data and Evaluation Setup
+## 2. Data and Evaluation Setup
 
 
 
@@ -90,11 +90,11 @@ Three evaluation layers were used:
 
 
 
-\- \*\*Intent classification:\*\* accuracy, macro F1, weighted F1.
+- Intent classification: accuracy, macro F1, weighted F1.
 
-\- \*\*Evidence retrieval:\*\* human judgments of relevance, actionability, and whether evidence was safe to ground a response on.
+- Evidence retrieval: human judgments of relevance, actionability, and whether evidence was safe to ground a response on.
 
-\- \*\*Reply quality:\*\* automated checks plus an LLM-judge calibration against human judgments.
+- Reply quality: automated checks plus an LLM-judge calibration against human judgments.
 
 
 
@@ -102,11 +102,11 @@ The LLM judge calibration successfully evaluated 20 cases; the remaining planned
 
 
 
-\---
+---
 
 
 
-\## 3. Baselines and Final System
+## 3. Baselines and Final System
 
 
 
@@ -118,7 +118,7 @@ The LLM judge calibration successfully evaluated 20 cases; the remaining planned
 
 | TF-IDF historical retrieval | 68.5% | 68.8% | 68.5% | Uses weak historical labels |
 
-| Final V2.4 agent | \*\*70.0%\*\* | \*\*70.9%\*\* | \*\*70.4%\*\* | Outcome-first classification + evidence gating |
+| Final V2.4 agent | **70.0%** | **70.9%** | **70.4%** | Outcome-first classification + evidence gating |
 
 
 
@@ -130,29 +130,29 @@ The final V2.4 system adds domain-specific classification logic and evidence con
 
 
 
-\### Final V2.4 results
+### Final V2.4 results
 
 
 
-\- Intent accuracy: \*\*70.0%\*\*
+- Intent accuracy: 70.0%
 
-\- Macro F1: \*\*70.9%\*\*
+- Macro F1: 70.9%
 
-\- Weighted F1: \*\*70.4%\*\*
+- Weighted F1: 70.4%
 
-\- Auto-handled: \*\*66/200 (33%)\*\*
+- Auto-handled: 66/200 (33%)
 
-\- Escalated: \*\*134/200 (67%)\*\*
+- Escalated: 134/200 (67%)
 
-\- Evidence available: \*\*200/200 (100%)\*\*
+- Evidence available: 200/200 (100%)
 
-\- Evidence selected after safety/consistency checks: \*\*118/200 (59%)\*\*
+- Evidence selected after safety/consistency checks: 118/200 (59%)
 
-\- Correct intent + auto-handle: \*\*50\*\*
+- Correct intent + auto-handle: 50
 
-\- Wrong intent + auto-handle: \*\*16\*\*
+- Wrong intent + auto-handle: 16
 
-\- Auto-handle safety proxy: \*\*75.8%\*\*
+- Auto-handle safety proxy: 75.8%
 
 
 
@@ -160,11 +160,11 @@ The safety proxy is calculated from whether an automatically handled case has th
 
 
 
-\---
+---
 
 
 
-\## 4. System Architecture
+## 4. System Architecture
 
 
 
@@ -176,43 +176,43 @@ The pipeline is:
 
 Customer message
 
-&#x20;     |
+    |
 
-&#x20;     v
+    v
 
 Intent classification
 
-&#x20;     |
+    |
 
-&#x20;     v
+    v
 
 Intent-conditioned retrieval
 
-&#x20;     |
+    |
 
-&#x20;     v
+    v
 
 Top-3 historical cases
 
-&#x20;     |
+    |
 
-&#x20;     v
+    v
 
 Evidence consistency + similarity gate
 
-&#x20;     |
+    |   
 
-&#x20;     +------ insufficient / sensitive ------> Escalate
+    +------ insufficient / sensitive ------> Escalate
 
-&#x20;     |
+    |
 
-&#x20;     v
+    v
 
 Sanitized historical response
 
-&#x20;     |
+    |
 
-&#x20;     v
+    v
 
 Customer-facing draft
 

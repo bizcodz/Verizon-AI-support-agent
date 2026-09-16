@@ -1,4 +1,4 @@
-\# VerizonSupport AI Support Agent
+# VerizonSupport AI Support Agent
 
 
 
@@ -6,7 +6,7 @@ AI support agent built for the Hiver SDE Intern take-home assignment using the K
 
 
 
-\## What it does
+## What it does
 
 
 
@@ -14,19 +14,19 @@ The agent:
 
 
 
-1\. Classifies customer messages into 12 support intents.
+1. Classifies customer messages into 12 support intents.
 
-2\. Retrieves relevant historical VerizonSupport interactions.
+2. Retrieves relevant historical VerizonSupport interactions.
 
-3\. Checks whether retrieved evidence is consistent and safe to use.
+3. Checks whether retrieved evidence is consistent and safe to use.
 
-4\. Generates a grounded customer-facing response.
+4. Generates a grounded customer-facing response.
 
-5\. Escalates sensitive, unclear, account-specific, or insufficiently supported cases.
+5. Escalates sensitive, unclear, account-specific, or insufficiently supported cases.
 
 
 
-\## Final Results
+## Final Results
 
 
 
@@ -70,7 +70,7 @@ Evidence benchmark:
 
 
 
-\## Setup
+## Setup
 
 
 

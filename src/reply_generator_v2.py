@@ -1,4 +1,4 @@
-import re
+﻿import re
 import html
 import joblib
 
@@ -10,7 +10,7 @@ from agent_v2_v24 import (
 )
 
 
-RETRIEVER_FILE = "verizon_resolution_retriever_v3.pkl"
+RETRIEVER_FILE = "artifacts/verizon_resolution_retriever_v3.pkl"
 
 
 # ------------------------------------------------------------
