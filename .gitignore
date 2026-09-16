@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+
+twcs.csv
+
+*.tmp
+*.log
+.DS_Store
+
+python profile_twcs.py

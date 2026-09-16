@@ -1,0 +1,19 @@
+JUDGE-HUMAN AGREEMENT
+============================================================
+
+        dimension  n  exact_agreement  quadratic_weighted_kappa
+        relevance 20             0.40                     0.618
+      helpfulness 20             0.45                     0.745
+        grounding 20             0.25                     0.065
+non_hallucination 20             0.55                     0.125
+             tone 20             0.45                     0.527
+
+Overall acceptable
+N: 20
+Exact agreement: 0.800
+Cohen kappa: 0.600
+
+Escalation appropriateness
+N: 20
+Exact agreement: 0.950
+Cohen kappa: 0.871

@@ -1,0 +1,328 @@
+﻿case_id,customer_tweet_id,customer_created_at,customer_text,support_tweet_id,support_created_at,historical_verizon_reply,intent_label,intent_confidence,should_escalate,escalation_reason,expected_resolution,review_notes,prelabel_intent
+VZ-001,2697695,Sun Nov 19 19:28:23 +0000 2017,The entire internet has moved on to IPv6 but you haven't -&gt; @115722,2697694,Sun Nov 19 19:30:25 +0000 2017,@757998 Thank you for the feedback. ^CAR,,,,,,,I12
+VZ-002,2979024,Thu Nov 30 03:49:54 +0000 2017,@115722 I’ve spent 5 hours today trying to get this straightened out. Still awaiting a call back and rep missed time slot... not sure what BAB is?,2979022,Thu Nov 30 03:54:29 +0000 2017,"@821611 We can assist you here with your Fios service.
+^NHP",,,,,,,I12
+VZ-003,1502836,Mon Oct 16 22:54:13 +0000 2017,C''mom @115722 get with it. Yankees are coming on and the channel along with 100's of others are out!!!,1502832,Mon Oct 16 23:00:00 +0000 2017,"@468808 Yikes! What is showing on the channel you are trying to watch, at this time? ^RMD",,,,,,,I04
+VZ-004,1233650,Mon Oct 16 01:36:16 +0000 2017,@VerizonSupport I used to get 80 down 50 up,1233652,Mon Oct 16 01:38:32 +0000 2017,@409345 Can you run a speed test with PC directly wired to your router (https://t.co/jB1NmeGvuv)? What speeds are we getting? ^FEM,,,,,,,I12
+VZ-005,1330850,Sat Oct 28 21:24:43 +0000 2017,@VerizonSupport System status light is off,1330853,Sat Oct 28 21:27:00 +0000 2017,"@430479 Ok, check your power outlet to make sure it is still working by plugging something into your outlet. 
+^ADP",,,,,,,I12
+VZ-006,1575094,Tue Oct 17 06:39:52 +0000 2017,.@VerizonSupport why is your internet so absolutely trash in area code 92407? massive drop. down to only 5mbps for two days. impossible,1575092,Tue Oct 17 06:40:52 +0000 2017,"@119824 Hi Frank, Let us partner you with our Verizon Wireless Team @115990.  We will get this over to them for you. 
+^FEM",,,,,,,I02
+VZ-007,1801532,Wed Oct 18 01:23:53 +0000 2017,"@VerizonSupport Verizon down in Spring Valley, NY",1801530,Wed Oct 18 01:28:00 +0000 2017,@541307 Up to date outage info can be found at https://t.co/tdPvxRi4pe. ^NHP,,,,,,,I12
+VZ-008,2247639,Fri Nov 10 19:52:31 +0000 2017,@VerizonSupport Bill went from $88 to $152 because I moved and you couldn't fulfill my old contract. Guess it wasn't true when they said the price would still be the same.,2247638,Fri Nov 10 20:02:00 +0000 2017,"@654984 We understand. The price can change with how you either has it set up month to month or contract and if you have no contract. 
+^ADP",,,,,,,I07
+VZ-009,1022248,Sun Oct 22 23:02:42 +0000 2017,@VerizonSupport It just doesn't work. It says there's a network error or something. Then I restart the app. And it works for 3 minutes. Then stops.,1022247,Sun Oct 22 23:09:00 +0000 2017,@361887 Thank you. Please follow and DM so we can discuss this further. ^DDD,,,,,,,I12
+VZ-010,2095991,Sat Nov 04 03:23:18 +0000 2017,"@VerizonSupport please, my internet is crawling. I'm in Reston and pay for gigabit but I get a quarter of that with an insane 5000+ms ping",2095990,Sat Nov 04 04:43:28 +0000 2017,"@619220 Hello, Are you testing your service wired or wireless?
+^NHP",,,,,,,I12
+VZ-011,907884,Sat Oct 21 02:33:10 +0000 2017,@VerizonSupport Cablevision was in room  two years ago,907885,Sat Oct 21 02:36:00 +0000 2017,"@180130 That may be correct but if Fios has not been there then the cable will be disconnected at the main splitter.
+^FEM",,,,,,,I04
+VZ-012,1287425,Fri Oct 27 02:43:23 +0000 2017,@VerizonSupport Nahhh what you need to do is let people pay per channel. Get with the times! I don’t watch half the shit you put in packages! You’re theives,1287428,Fri Oct 27 02:45:29 +0000 2017,"@421125 Have you checked online for our custom TV promotions?
+^BAB",,,,,,,I04
+VZ-013,1213988,Wed Oct 25 16:18:41 +0000 2017,@VerizonSupport the link doesn’t show me any return labels. it says “sign in and print a label” i’m signed in.,1213989,Wed Oct 25 16:24:10 +0000 2017,@404926 You need to sign in to your account to print that return label. ^BCW,,,,,,,I06
+VZ-014,1406037,Sat Oct 28 18:43:05 +0000 2017,@VerizonSupport I know how to read my bill. It's listed as a one-time activity. No credit. Complete fraud. I wonder how many customers Verizon did this to?,1406040,Sat Oct 28 18:52:25 +0000 2017,"@168875 No worries, we can help follow and DM us.
+^JAY",,,,,,,I10
+VZ-015,326073,Sat Oct 07 16:07:49 +0000 2017,@VerizonSupport Nvm. It's back.,326070,Sat Oct 07 16:10:00 +0000 2017,"@193686 Ok, let us know if that happens again. But we are not seeing anything going on in your area. 
+^ADP",,,,,,,I12
+VZ-016,863276,Fri Oct 13 14:46:47 +0000 2017,Who else pays extra for this @116136 feature?  Honestly!😤 Where are you @115722? #saveme https://t.co/0IafUPf45b,863275,Fri Oct 13 14:51:34 +0000 2017,@325000 Come  join the team. https://t.co/Wc9WXQV1jc ^CAR,,,,,,,I12
+VZ-017,2739842,Mon Nov 20 16:56:35 +0000 2017,@VerizonSupport over an hour wait to speak to someone about a bill?  That's crazy.  Trying to help my elderly parents with their bill.,2739840,Mon Nov 20 17:00:24 +0000 2017,"@352581 We can assist you here.  How can we help?
+^TDC",,,,,,,I07
+VZ-018,2788662,Tue Nov 21 18:42:29 +0000 2017,So yesterday Verizon was supposed to come by and upgrade their stuff here. Also it took over an hour of my pizza being out for delivery to get here from 10 minutes down the road. Yesterday was nothing but delays which pushes all my plans back. Fun.,2788661,Tue Nov 21 19:08:52 +0000 2017,@778430 Help is here! How can we assist? ^DDG,,,,,,,I12
+VZ-019,1792688,Thu Oct 12 01:16:47 +0000 2017,I’m about to cancel @115955... they’re really pieces of shit if they’re taking away channels. Next time Verizon knocks I will sign up.,1792687,Thu Oct 12 01:30:00 +0000 2017,"@538445 Hear us knocking? We'd love to have you in the Fios family. Please check here for availability and pricing: https://t.co/kkH4JcNtNB 
+^HSB",,,,,,,I04
+VZ-020,462122,Fri Dec 01 02:04:44 +0000 2017,@119000 I never tried so hard to give someone business that wouldn’t let me even ask questions online. 25 Times I did “I’m not a robot” if this is indicator maybe verizon not so bad,462119,Fri Dec 01 02:15:00 +0000 2017,@224821 We'd love to have you with Fios. Check out our promos for new customers at https://t.co/nxpY4LB2L3  ^JRA,,,,,,,I12
+VZ-021,1678822,Mon Nov 06 15:26:29 +0000 2017,@VerizonSupport Simple: I want to cancel my service.,1678824,Mon Nov 06 15:28:24 +0000 2017,"@510599 You want to cancel it for Verizon residential or Verizon Wireless mobile?
+^ADP",,,,,,,I12
+VZ-022,2648827,Sun Nov 19 03:03:50 +0000 2017,@VerizonSupport This is what happens after following the link: https://t.co/NKWAMIeEH9,2648826,Sun Nov 19 03:08:00 +0000 2017,@217290 Were there any promos or discounts that may have expired when you check page 3 of your bill? It should be listed on the right side. ^JRA,,,,,,,I12
+VZ-023,1852104,Wed Oct 18 15:33:58 +0000 2017,@VerizonSupport Hi - I've reached out to a customer support rep on Twitter and FB and neither is replying. Can you please help?,1852103,Wed Oct 18 15:37:33 +0000 2017,@395465 Sure thing.  Is this for your cellular or residential service? ^BCW,,,,,,,I12
+VZ-024,601096,Sun Dec 03 21:41:15 +0000 2017,@VerizonSupport Thanks. You guys took care of it!,601098,Sun Dec 03 21:44:00 +0000 2017,"@156495 Perfect, glad to hear. Thank you for letting us know. ^RMD",,,,,,,I12
+VZ-025,647327,Wed Nov 22 18:16:54 +0000 2017,Shout out to @115725 for having the worst spam call filter out there. Ironically after I upgrade I start getting more and more calls. Time to switch.,647326,Wed Nov 22 18:18:26 +0000 2017,"@273759 We hate to hear that you're getting spam calls, Aaron.  Is this on your cellular or residential service? ^BCW",,,,,,,I12
+VZ-026,688313,Thu Nov 23 14:03:07 +0000 2017,@6592 help please! Fios says you are showing encore of rangers game but feed is knicks encore! Tv provider says it’s your feed that is problem other msg has no feed!,688308,Thu Nov 23 14:08:30 +0000 2017,@284433 Is the feed incorrect on all tvs? ^DDG,,,,,,,I07
+VZ-027,410879,Mon Oct 09 23:51:50 +0000 2017,@VerizonSupport I think they canceled my service and opened a new account. They said a tech had to come out (but the line is installed).,410878,Mon Oct 09 23:56:29 +0000 2017,"@212875 Understood, we are here for your support.
+^JAY",,,,,,,I08
+VZ-028,1232625,Sat Nov 25 19:31:26 +0000 2017,"@115725 does your company and customer service team have an interest in genuinely making customer issues right, or just taking my money and increasing prices yearly?",1232623,Sat Nov 25 19:36:00 +0000 2017,"@409089 We understand your concerns, let us partner you with @115990. 
+
+^ADP",,,,,,,I11
+VZ-029,2257287,Fri Nov 10 23:59:27 +0000 2017,@VerizonSupport Not the best first experience with phone support. Have been trying to change an installation date and deal with a billing error for over 35 minutes.,2257286,Sat Nov 11 00:01:00 +0000 2017,@657386 Are you currently on the phone with a rep Melanie? ^DDG,,,,,,,I07
+VZ-030,817894,Thu Oct 12 21:03:44 +0000 2017,The quality @115725 network. https://t.co/epbQ1b5VnA #fixthis,817893,Thu Oct 12 21:09:00 +0000 2017,@154570 We're here for you Justin! Do you have DSL or Fios wtih us? ^DDG,,,,,,,I12
+VZ-031,1255219,Fri Nov 10 03:01:56 +0000 2017,"@VerizonSupport Ok. So, I am not experiencing any issues with the game on TNT. However, on Tuesday of this week, while attempting to watch the Cavs game that was being played in Cleveland on the NBA Channel, it would not broadcast.",1255218,Fri Nov 10 03:04:04 +0000 2017,@414335 Was this happening on all your TVs? Were you getting a message that the game was being blacked out?  ^JRA,,,,,,,I04
+VZ-032,380944,Mon Oct 09 09:19:40 +0000 2017,Cannot wait for @115722 to come to Southie so the only option is @115900 lousy service,380943,Mon Oct 09 09:26:29 +0000 2017,"@206346 We're always expanding our Fios footprint. You can check for avail and status here.  https://t.co/FhawCPd4c7 
+^BAB",,,,,,,I12
+VZ-033,1269275,Thu Oct 26 13:52:23 +0000 2017,"@VerizonSupport Had an install scheduled yesterday between 1-3, I called at 3:30 after no tech. I’m told the ticket never went thru. Had to reschedule",1269279,Thu Oct 26 13:55:00 +0000 2017,"@417195 200.00  service ticket ?  
+^TDC",,,,,,,I08
+VZ-034,2239362,Thu Oct 19 16:56:03 +0000 2017,@115725 I'm thinking about changing service providers. Any deals going on?,2239360,Thu Oct 19 16:56:53 +0000 2017,"@190869 Is this for Cellular or Home services?
+^ACM",,,,,,,I12
+VZ-035,2794731,Tue Nov 21 22:07:50 +0000 2017,@VerizonSupport So the rep I spoke to when I signed up lied to me?,2794732,Tue Nov 21 22:18:28 +0000 2017,"@779894 We can review the account to see if there are any notations regarding this promise. It could be possible that this was promised to you as a courtesy but this is not an option that we have regarding router rental. Follow and DM us to continue. 
+^HSB",,,,,,,I11
+VZ-036,1255345,Fri Nov 03 19:51:33 +0000 2017,@115725 I have Verizon. I wish I did not.,1529713,Fri Nov 03 19:54:00 +0000 2017,@474770 What did we do to make you feel this way and how can we fix things between us? ^KMG,,,,,,,I12
+VZ-037,1629235,Sun Nov 05 15:30:27 +0000 2017,@VerizonSupport Hard wired. It's the computer my router is on,1629233,Sun Nov 05 15:32:00 +0000 2017,@438770 Can you please reboot the router and run that test again? ^BCW,,,,,,,I03
+VZ-038,1632095,Sun Oct 22 16:28:08 +0000 2017,@VerizonSupport What is this test and how do I do it,1632094,Sun Oct 22 16:31:00 +0000 2017,"@348546 You plug an ethernet cable from your device to the router and go to  https://t.co/yMMRB4VWSM on that device to test speed.
+^TDC",,,,,,,I12
+VZ-039,1213984,Wed Oct 25 16:40:46 +0000 2017,@VerizonSupport So… are we not DMing anymore like your coworker told me to do?,1213983,Wed Oct 25 16:42:49 +0000 2017,"@404926 We need to bring up the account and secure it before we can send you a label.  This must be done in the secure chat.
+^ACM",,,,,,,I12
+VZ-040,792346,Thu Oct 12 16:32:59 +0000 2017,@VerizonSupport Really..... Use a Verizon program to test a Verizon service.... Won't be any bias there. 😂😂I attached a pic on my original comment.,792347,Thu Oct 12 17:09:53 +0000 2017,"@308938 Try. ^DDG
+https://t.co/8yi4Bofxvm",,,,,,,I12
+VZ-041,569740,Sun Dec 03 02:47:33 +0000 2017,@VerizonSupport The globe light on my router is solid red.. again,569739,Sun Dec 03 02:51:24 +0000 2017,"@253727 Do you know where the Battery Backup unit is located? 
+^FEM",,,,,,,I03
+VZ-042,431949,Tue Oct 10 15:38:31 +0000 2017,@VerizonSupport @217699 The order number was revised 3 times yet kept getting error. CS rep created new order but install is on Monday - 3 wks after initial order,431951,Tue Oct 10 15:40:30 +0000 2017,"@187879 Please let us know if you need any assistance. 
+^ADP",,,,,,,I08
+VZ-043,378619,Mon Oct 09 05:16:15 +0000 2017,"@205850 @115725 Hey Verizon, gonna get your bots on this or will you help",378621,Mon Oct 09 05:17:28 +0000 2017,"@205851 Certainly, how may we assist? 
+^BAB",,,,,,,I12
+VZ-044,1247602,Thu Oct 26 01:28:37 +0000 2017,"@VerizonSupport Just a blank screen. Seems like I’m getting no service to the house, both tv and internet.",1247604,Thu Oct 26 01:32:29 +0000 2017,"@412717 We would like to reboot the network terminal. Do you know where the battery backup unit is at in the home?
+^HSB https://t.co/sGr8j3Nwdx",,,,,,,I04
+VZ-045,1482750,Fri Nov 03 02:12:32 +0000 2017,"@115722 If I have Fios at home &amp; I'm at home, why doesn't your app let me watch everything that's on live TV? So frustrating",1482748,Fri Nov 03 02:15:25 +0000 2017,@316653 What are you trying to watch on the Fios Mobile app? ^DDD,,,,,,,I04
+VZ-046,1084645,Mon Oct 23 17:44:19 +0000 2017,"@VerizonSupport Hi! Can someone walk me through why my bill is $64 less than what I normally pay? Not complaining, just don’t understand.",1084643,Mon Oct 23 17:46:29 +0000 2017,"@348942 Have you made any changes to your services recently?
+^TNT",,,,,,,I07
+VZ-047,2446687,Wed Nov 15 01:20:37 +0000 2017,"@VerizonSupport No, not that I know of. I’m not the account holder for the internet service since I rent a room in my house. But my roommates have told me this has been a problem all day.",2446686,Wed Nov 15 01:25:00 +0000 2017,"@701395 Thank you, since the internet is green it may be interference impacting your connectivity. When searching for wireless networks how many do you see listed? ^JRA",,,,,,,I12
+VZ-048,463680,Fri Dec 01 03:41:55 +0000 2017,"@VerizonSupport Actually no, isn’t working with ABC Freeform either",463681,Fri Dec 01 03:45:27 +0000 2017,"@225237 Have you tried reseting the password? 
+^BAB",,,,,,,I12
+VZ-049,1205104,Tue Oct 17 01:49:09 +0000 2017,@VerizonSupport This is what I'm seeing. It's mounted about 7' off ground in basement https://t.co/dTVCwFGbfm,1205101,Tue Oct 17 01:51:00 +0000 2017,@403057 Press and hold the Reset button on power supply for 15 seconds. Give it 5 min and then check to see if your service comes back on. ^FEM,,,,,,,I12
+VZ-050,2487645,Wed Nov 15 16:21:08 +0000 2017,"@115722 Why is it, that your love is all for new customers? Existing customers with bad deals get smacked around... New ones get gigabit connections for cheaper than me?",2487644,Wed Nov 15 16:24:31 +0000 2017,@710488 That's not true.  Our current customers can see what deals they are eligible for by logging in to their account and checking under the deals section. ^BCW,,,,,,,I12
+VZ-051,616046,Wed Oct 11 03:12:36 +0000 2017,@VerizonSupport Who would I need to contact because if my voice will not be heard I will report to the EEOC and take further actions I’m sorry but I can’t,616045,Wed Oct 11 03:20:27 +0000 2017,"@266205 Is this a Verizon center or a Frontier center? 
+^BAB",,,,,,,I12
+VZ-052,481265,Fri Dec 01 13:52:06 +0000 2017,@VerizonSupport Only if someone can communicate the truth to me.  Otherwise I’m #done,481263,Fri Dec 01 13:55:49 +0000 2017,"@229394 Is this for your Verizon residential or Verizon wireless mobile?
+
+^ADP",,,,,,,I12
+VZ-053,1414296,Thu Nov 02 01:52:05 +0000 2017,"So now I have to figure out if I can get this damn router back, probably UPS it at my own expense if I can, and avoid FiOS like the plague",1414294,Thu Nov 02 01:58:56 +0000 2017,@448671 Our apologies as we never want to hear this. You can print prepaid labels from https://t.co/1ZRW7wQqG5  ^JRA,,,,,,,I03
+VZ-054,1951547,Sun Oct 29 14:54:40 +0000 2017,@VerizonSupport Do a say what now lol?,1951546,Sun Oct 29 14:58:27 +0000 2017,@295973 HAHA! Can you plug the power cord and unscrew the coax cable from the cable box.  Wait 2 minutes and connect everything back.  ^CAR,,,,,,,I12
+VZ-055,1304003,Fri Oct 27 01:26:41 +0000 2017,"had to completely reset my router in order to get my internet to work, and it's STILL slow! thanks, @115722!",1304001,Fri Oct 27 01:29:00 +0000 2017,@424709 Let's work on your speed issue! Can you run a wired speed test from a PC by any chance? ^DDD,,,,,,,I03
+VZ-056,2759476,Tue Nov 21 04:30:13 +0000 2017,@VerizonSupport In order to watch showtime on my phone I need to download the app. I do not have enough storage to download the app.,2759474,Tue Nov 21 04:35:00 +0000 2017,"@395017 We will need to test from a different device if storage is not available. 
+^BAB",,,,,,,I04
+VZ-057,855295,Fri Oct 20 15:47:15 +0000 2017,@115722  are crooks. Charge you for installation that is not provided and refuse to credit,855294,Fri Oct 20 15:49:00 +0000 2017,"@159728 That is not the experience we want you to have. Please DM us the details we will take a closer look at it for you.
+^TNT",,,,,,,I07
+VZ-058,1194541,Mon Oct 16 00:18:55 +0000 2017,@115722 Is there a way to speak to someone on the phone?,1194538,Mon Oct 16 00:23:00 +0000 2017,"@400684 We can be reached by phone at 1-800-837-4966. The cable box is plugged into HDMI 1?
+^HSB",,,,,,,I12
+VZ-059,2521135,Sun Nov 26 19:42:37 +0000 2017,"@VerizonSupport ""There is an outage in your area. Our engineers are working on it. It is expected to be restored by 3:06 PM local time."" 
+
+Hurry, halftime is almost over!",2521136,Sun Nov 26 19:45:28 +0000 2017,@718074 We are working.  ^CAR,,,,,,,I01
+VZ-060,1839189,Tue Oct 17 19:51:57 +0000 2017,"Hey @VerizonSupport 
+I'm told I need to get a repair estimate from an Authroized Verizon Repair Center for Insurance, but (1/2)",1839187,Tue Oct 17 19:55:26 +0000 2017,"@204068 Good question. We'll refer this to our wireless colleagues @115990 since we handle Fios and DSL accounts.  They will be in touch.
+^HSB",,,,,,,I12
+VZ-061,1961415,Mon Oct 30 23:07:05 +0000 2017,@VerizonSupport Right. I should try to get to a website with terrible phone service and no internet. Great advice,2625162,Mon Oct 30 23:11:00 +0000 2017,@581662 We'll be glad to investigate this for you. Please follow and DM us at your convenience. ^DDD,,,,,,,I05
+VZ-062,2600046,Fri Nov 17 06:31:06 +0000 2017,"@VerizonSupport yes, i have the second model from the left.",2600044,Fri Nov 17 06:33:00 +0000 2017,"@306919 Hold down the Alarm Silence button for 15 seconds. 
+^TXA",,,,,,,I12
+VZ-063,1621550,Sun Nov 05 16:33:10 +0000 2017,@115722 Wait time went from more than 9 minutes to more than 24 minutes for Fios Tech Support.This is no way to compete with Direct TV!,1621549,Sun Nov 05 16:37:00 +0000 2017,@496869 There is not wait here.  Keep in mind DirectTV just does TV service.  We do all services.  How can we assist you?  ^CAR,,,,,,,I04
+VZ-064,481294,Tue Nov 28 14:11:45 +0000 2017,@115725 This ad is misleading because it would seem the $300 is directly off the price of the phone. Disappointing. It’s based on phone trade in and my iPhone 6+ only gets me $160. Shame. I need a new phone desperately!,2890903,Tue Nov 28 14:13:00 +0000 2017,"@801443 Let me partner you with our Verizon Wireless team @115990.  
+^CAR",,,,,,,I05
+VZ-065,2495374,Mon Oct 30 00:47:35 +0000 2017,@VerizonSupport @45051 It’s Sunday evening and channel 510 in Boston is still in Spanish!  Two weeks to fix it before Pats play again.,2495373,Mon Oct 30 00:49:04 +0000 2017,@453831 Please come back into chat so we can see what is going on as we are showing that issue cleared. ^RMD,,,,,,,I04
+VZ-066,481289,Fri Dec 01 13:45:08 +0000 2017,@VerizonSupport It would be an upgrade &amp; mobile,481287,Fri Dec 01 13:50:27 +0000 2017,"@229398 Please contact our friends @115990 for assistance with Verizon Mobile service.
+^TXA",,,,,,,I12
+VZ-067,328857,Tue Oct 24 01:37:47 +0000 2017,@115722 why is it that I upgraded my internet speed to 75/75 and now Twitter pics won't load?,328855,Tue Oct 24 01:39:35 +0000 2017,"@194411 Hi IrishLinds. Are you having a problem with your phone not loading pics?
+^FEM",,,,,,,I02
+VZ-068,916315,Fri Oct 13 20:18:16 +0000 2017,@115725 help? I’m supposed to be getting 150/150 don’t know why you guys are giving me this https://t.co/R5utewWJLE,916313,Fri Oct 13 20:19:31 +0000 2017,"@337559 Let us look into it for you. Ca you test it hardwired on the website below?
+https://t.co/OmZK1YqEet
+
+^TNT",,,,,,,I12
+VZ-069,2756381,Tue Nov 21 02:02:54 +0000 2017,@115722 takes forever to put an episode on demand. @116136 puts it on demand the next day.,2756380,Tue Nov 21 02:05:00 +0000 2017,@512597 We'd like to collect your On Demand feedback! Please follow and DM us at your convenience. ^DDD,,,,,,,I04
+VZ-070,1650602,Mon Nov 06 06:21:14 +0000 2017,@VerizonSupport Negative. They never do unless a work order is created.,1650600,Mon Nov 06 06:23:25 +0000 2017,"@504149 When calling in and speaking to a representative, a work order is created for the call. 
+^BAB",,,,,,,I12
+VZ-071,1165361,Tue Oct 24 19:28:59 +0000 2017,@VerizonSupport Thanks so much! I wound up calling and I'm TOLD I was put on a do not contact list. Fingers crossed! Thanks!,1165363,Tue Oct 24 19:32:30 +0000 2017,"@394109 Glad you were able to have this taken care of. If you ever need us in the future we are just a tweet away.
+^HSB",,,,,,,I12
+VZ-072,1811646,Sun Oct 15 01:32:02 +0000 2017,"So, @VerizonSupport claims they truly want to assist me. Well? Yet to see results. I had a positive experience up until this weekend.",1811644,Sun Oct 15 01:34:01 +0000 2017,@382165 I understand you are upset. In order to assist you quicker we are adding @115990 as they are who handles our wireless side. ^RMD,,,,,,,I12
+VZ-073,1017878,Sun Oct 22 22:37:06 +0000 2017,@VerizonSupport I ended up losing most of my points for a film I’ve already seen. 🤣,1017879,Sun Oct 22 22:40:54 +0000 2017,@360830 I am guessing the purchase button was pressed 1 too many times?? Did that just happen? ^RMD,,,,,,,I12
+VZ-074,67941,Thu Nov 30 08:48:57 +0000 2017,@VerizonSupport I do not use the app. I go to the actual website. https://t.co/wtMyZIx480,67940,Thu Nov 30 08:51:25 +0000 2017,"@131502 What happens when you click on one of the options to verify your account?
+^NHP",,,,,,,I12
+VZ-075,188206,Wed Oct 04 03:14:33 +0000 2017,@115722 ESPN and ppv only,188205,Wed Oct 04 03:19:52 +0000 2017,@160158 We want to make sure the needle wires are straight on both ends before reconnecting. ^DDD,,,,,,,I04
+VZ-076,17794,Sun Dec 03 19:20:39 +0000 2017,@VerizonSupport FiOS. And I love it. Not a single problem in 9 years.,17795,Sun Dec 03 19:23:24 +0000 2017,@119940 We're glad to hear you're happy with Fios service! Please let us know if do you have any issues with it. ^DDD,,,,,,,I12
+VZ-077,2748666,Mon Nov 20 23:39:13 +0000 2017,@VerizonSupport Doesn't work. I went outside to check the wires and I found the problem. The wires were cut and are down. So what do I do about that,2748667,Mon Nov 20 23:46:31 +0000 2017,"@769607 We would need you to go to a secure chat to get a ticket placed to have a tech fix your wires. However the chat lines have a higher wait time than normal. You can call in to do the same or if you have the MYFIOS app you can do that there as well.
+^JAY",,,,,,,I12
+VZ-078,337252,Sat Oct 07 21:53:33 +0000 2017,Hey @115722 fix the outage in Lawrence NJ. I have baseball to watch,337250,Sat Oct 07 21:56:58 +0000 2017,"@196472 Good evening, did you have a ticket number for this possible issue? ^RMD",,,,,,,I01
+VZ-079,1104108,Sun Oct 15 08:11:56 +0000 2017,@VerizonSupport Hello! I wanted to know how much would it be if I were to switch over and get my iPhone 6s Plus activated?,1104107,Sun Oct 15 08:15:00 +0000 2017,"@380558 Let us get this over to our wireless counterparts for all your mobile concerns @115990.
+^NHP",,,,,,,I12
+VZ-080,360493,Mon Oct 09 13:54:56 +0000 2017,@VerizonSupport FIX IT!!  ; ) actually someone fr verizon is coming to look at it (?) on wednesday.,360495,Mon Oct 09 13:56:33 +0000 2017,@201377 Great.  ^CAR,,,,,,,I12
+VZ-081,52633,Wed Nov 01 20:18:09 +0000 2017,@VerizonSupport Both my macbooks and my iphone are connected to the 5Ghz,52644,Wed Nov 01 20:23:27 +0000 2017,"@127841 Can you connect them to the 2.4 and test.
+^ACM",,,,,,,I12
+VZ-082,2900829,Tue Nov 28 17:56:11 +0000 2017,@115955 Am sorry as well. I guess am going to have to take my service @115722,2901533,Tue Nov 28 18:01:29 +0000 2017,"@803550 You can sure come to Verizon fios! https://t.co/MMBPEjPQR4
+^ADP",,,,,,,I12
+VZ-083,394735,Mon Oct 09 18:00:55 +0000 2017,@VerizonSupport Which prevents me from using my bank account with VZ. I am beyond frustrated as this issue was created by a double charge from Verizon!,394738,Mon Oct 09 18:04:53 +0000 2017,"@209529 No worries at all.  For this, you would need to speak with our Financial Services team at 1-888-780-3962 ^BCW",,,,,,,I07
+VZ-084,2777944,Tue Nov 21 15:10:35 +0000 2017,"How many times should a customer need to contact @115725 to apply a discount to a contract? 2x’s on the website, 2 calls and a visit to a store and not even applied.. I’m done with your company!!!",2777942,Tue Nov 21 15:13:24 +0000 2017,@776086 That is frustrating.  Depending on the issue it can take a while for discount to be applied.  What have you been told?  ^CAR,,,,,,,I11
+VZ-085,1570625,Sun Nov 05 14:29:46 +0000 2017,@VerizonSupport Right next to it,1570626,Sun Nov 05 14:33:00 +0000 2017,"@484348 Please follow and DM us for assistance.
+^TDC",,,,,,,I12
+VZ-086,1899915,Mon Oct 23 21:44:09 +0000 2017,@115722 when you guys gonna come to Illinois,1899914,Mon Oct 23 21:47:27 +0000 2017,"@314140 We are working on expanding. Sign up for updates on the website below. Let us know if you have any questions.
+https://t.co/2yTjPA7ZOw
+
+^TNT",,,,,,,I12
+VZ-087,412089,Tue Oct 10 00:33:36 +0000 2017,@VerizonSupport Sound cuts out too,412088,Tue Oct 10 00:39:00 +0000 2017,"@213310 Is it affecting all of your TVs?
+^TNT",,,,,,,I12
+VZ-088,1244730,Wed Oct 25 23:57:30 +0000 2017,@VerizonSupport I’m sick of shows restarting from the beginning and not being able to fast forward To resume. What can I do??,1244728,Thu Oct 26 00:00:00 +0000 2017,"@412013 Hi Brandon, Are you watching shows via On Demand?
+^NHP",,,,,,,I12
+VZ-089,2127899,Wed Nov 08 17:26:50 +0000 2017,"@VerizonSupport Yup, the VID light is red and on the WPS box the symbol above the WiFi light is red",2127898,Wed Nov 08 17:32:26 +0000 2017,@626456 We can help with this! Please follow and DM so we can continue. ^DDG,,,,,,,I12
+VZ-090,244572,Thu Oct 05 14:46:52 +0000 2017,"@VerizonSupport Phone won’t work, can’t turn it off, apps not responding 2 touch. Can get notifi &amp; Siri. Nothing else works😩HELP!!!!!",244570,Thu Oct 05 14:50:53 +0000 2017,"@174104 Please contact our friends @115990 for assistance with Verizon Mobile service.
+^TXA",,,,,,,I12
+VZ-091,927367,Sat Oct 21 14:32:28 +0000 2017,"@VerizonSupport No not now, but when we do need help it's never pretty. I sometimes rather visit a dentist office for root canal.",927366,Sat Oct 21 14:35:26 +0000 2017,"@340038 Please fell fee to join us here in Social Media. We will do all within our power to correct any issues you may have. 
+^TXA",,,,,,,I12
+VZ-092,685129,Thu Nov 23 12:18:32 +0000 2017,@VerizonSupport @115725 #verizonsucks and steals your money. Don’t get Fios,685128,Thu Nov 23 12:21:54 +0000 2017,@280233 This is not the perception we want you to have of us! Allow us to turn this around. How can we assist? ^DDG,,,,,,,I12
+VZ-093,2268964,Thu Oct 19 18:13:19 +0000 2017,@115722 Why when I search availability do you show this even though I CAN'T GET IT?? https://t.co/Yf3Y22n7ge,2268963,Thu Oct 19 18:15:26 +0000 2017,"@346475 This is the availability site.
+https://t.co/vMeoktGdmy ^ACM",,,,,,,I12
+VZ-094,2495140,Mon Oct 30 03:03:47 +0000 2017,@VerizonSupport no. i have no idea what that is. do you have a photo?,2495141,Mon Oct 30 03:06:54 +0000 2017,"@712139 Sure!
+^JAY https://t.co/XTpGlcHe7s",,,,,,,I12
+VZ-095,412110,Tue Oct 10 00:27:41 +0000 2017,That makes two of us. @115722 never gave me my referral points. Promote their service and they keep the reward. #ThanksVerizon https://t.co/6RKOYZctbY,412108,Tue Oct 10 00:30:43 +0000 2017,"@213316 That is not the epxerience we want you to have. Please follow and DM us the details and we will look into it for you.
+^TNT",,,,,,,I12
+VZ-096,2121403,Wed Nov 08 14:32:44 +0000 2017,"Again I have wasted time with @115725 trying to be a happy long time loyal customer and they couldn't care less. 79.99 now, but once you establish a good pay record and become a loyal customer, well it will be 150.00 or even higher. And stay even longer, hell @115725 will raise",2121402,Wed Nov 08 14:35:37 +0000 2017,@532388 We do care about making your happy.  You having an issue with your bill?  ^CAR,,,,,,,I12
+VZ-097,1653681,Tue Oct 17 14:18:21 +0000 2017,@VerizonSupport and can't even play a YouTube video. It's ridiculous. I'm at 79916 and 79936 zip code.,1653680,Tue Oct 17 14:20:00 +0000 2017,@160342 Let's get this over to our team with @115990 so they can assist. ^BCW,,,,,,,I12
+VZ-098,1215854,Sun Oct 15 23:32:22 +0000 2017,@115955 gets rid of channels so I have gotten rid of them. Helllllllooooooooo @115722 🙃,1215852,Sun Oct 15 23:36:00 +0000 2017,"@197876 Welcome to the family. Let us know if you have any questions, we are here 24/7.
+^TNT",,,,,,,I04
+VZ-099,268005,Fri Oct 06 00:48:42 +0000 2017,@VerizonSupport I'm assuming it's the optimizer download to run on the machine? Ran it and restarting now.,268006,Fri Oct 06 01:00:25 +0000 2017,"@179907 Thank you for doing so. After the reboot of your computer please rerun the speedtest. 
+^HSB",,,,,,,I12
+VZ-100,632857,Wed Nov 22 15:32:05 +0000 2017,@115990 Thanks! You could get Fios in my new neighborhood (70447)!!,632856,Wed Nov 22 16:10:56 +0000 2017,@270001 We're always expanding our Fios footprint. You can check for avail and status here.  https://t.co/KRnFLTeHfo ^ACM,,,,,,,I04
+VZ-101,1101284,Sun Oct 15 06:58:41 +0000 2017,"@VerizonSupport Pixel XL, unlimited data, never a connection issue indoors, been rocking 3g data all day where's the 4g I'm paying for at?",1101283,Sun Oct 15 07:01:28 +0000 2017,"@214112 Please contact our friends @115990 for assistance with Verizon Mobile service.
+^TXA",,,,,,,I12
+VZ-102,1599569,Sun Nov 05 03:50:09 +0000 2017,@VerizonSupport For something that has worked perfect for months I'm not disconnecting either of them. No offense.,1599568,Sun Nov 05 03:51:54 +0000 2017,"@491187 Hi Alex. just the vibrations in the house will cause a metal on metal connection to loosen up. That will cause you to have this issue.
+^FEM",,,,,,,I02
+VZ-103,1483904,Fri Nov 03 03:04:54 +0000 2017,"@VerizonSupport She had me sign something physically, on my porch, when it was dark, and I was cold and exhausted. I just wanted her to leave me alone tbh.",1483905,Fri Nov 03 03:11:32 +0000 2017,"@464589 Did the representative allow enough time for the documents to be properly reviewed? 
+^BAB",,,,,,,I12
+VZ-104,2496639,Mon Oct 30 01:45:07 +0000 2017,"@VerizonSupport theres a red globe on my router, how do i fix this",2496638,Mon Oct 30 01:46:55 +0000 2017,"@712488 We can help with this, Do you know where the Battery Backup unit is located? 
+^FEM",,,,,,,I03
+VZ-105,1506925,Fri Nov 03 17:39:40 +0000 2017,@VerizonSupport Three service reps have lied to me for the past 2 days,1506927,Fri Nov 03 17:44:00 +0000 2017,"@469743 What happened?
+^ACM",,,,,,,I11
+VZ-106,200427,Wed Oct 04 23:39:42 +0000 2017,Hey @115725 how about not having your sales guys knock on  doors after dark when people are trying to have dinner or put kids to bed?,200426,Wed Oct 04 23:41:00 +0000 2017,@163291 Let's take care of that for you! Please follow and DM us when you get a chance. ^DDD,,,,,,,I12
+VZ-107,2127846,Wed Nov 08 18:50:09 +0000 2017,Can’t even do work at home today since documents won’t upload. @119000 @118448 is the worst cable #isp ever. @115722 where are you!? Why aren’t you here in #motthaven the #Bronx?,2127844,Wed Nov 08 18:54:27 +0000 2017,@537427 We're always hoping to expand however we do not have an eta as of yet unfortunately. ^DDG,,,,,,,I04
+VZ-108,433552,Tue Oct 10 15:39:31 +0000 2017,"@VerizonSupport Most texts and calls are going to my old iPhone even though I turned off cell data, WiFi, blue tooth etc.",433551,Tue Oct 10 15:45:00 +0000 2017,@218115 We will let @115990 know you need help. ^KMG,,,,,,,I12
+VZ-109,2541959,Thu Nov 16 12:06:02 +0000 2017,"@716572 @115722 Sadly @115722 still isn't in my neighbood, but I've signed up for alerts so I can switch the second they are available",2541958,Thu Nov 16 12:09:31 +0000 2017,"@703643 Keep checking our website for updates. 
+^TXA",,,,,,,I04
+VZ-110,773687,Thu Oct 12 01:35:31 +0000 2017,@115722 how come a Boston vs Colorado #NHL game is blacked out on #NHLCenterIce in New York? @10309 https://t.co/G2P08AzMnz,773685,Thu Oct 12 01:44:24 +0000 2017,@304810 Are you able to view it on any local channels in your area? ^DDD,,,,,,,I12
+VZ-111,2446658,Wed Nov 15 01:30:06 +0000 2017,@VerizonSupport Also! When I called the man I spoke to said if I wasn't happy I should just switch to another company,2446655,Wed Nov 15 01:38:27 +0000 2017,"@701393 When your services have been restored we will be glad to look into the wireless issue for you to help resolve. With regard to the services being down. Did the rep on the phone have you attempt to reboot the optical network terminal(battery backup) ?
+^HSB",,,,,,,I12
+VZ-112,2455006,Wed Nov 15 03:34:52 +0000 2017,"So blown away at how awful customer service has become at @ATT @117735 @117830. Have been nothing but lied to and sold on promotional packages that were supposed to decrease my bill, only to see it go up. Cancelling this week. Hello cox. Hello Verizon. Can you hear me now?",2455005,Wed Nov 15 03:38:24 +0000 2017,"@703265 We would love to have you with Fios! You can check for availability at https://t.co/eCmkIfmZIk  
+^NHP",,,,,,,I07
+VZ-113,508426,Fri Dec 01 21:43:19 +0000 2017,@115722 y’all should be locked down for theft you Fucking cunts. I’m paying this another of money so I can lose connection?? You fucking criminals,508425,Fri Dec 01 21:48:00 +0000 2017,"@236758 Factory reset your router, press and hold the reset button on back for 10 seconds.  https://t.co/x78Cx5Ivwx
+^ADP",,,,,,,I12
+VZ-114,1231790,Wed Oct 25 21:39:15 +0000 2017,@VerizonSupport I don’t have Fios.,1231791,Wed Oct 25 21:43:20 +0000 2017,"@408922 So you are saying that your cellular data is slow?
+^ACM",,,,,,,I12
+VZ-115,423875,Tue Oct 10 23:16:23 +0000 2017,@VerizonSupport Nope the screen didn’t move.,423877,Tue Oct 10 23:19:00 +0000 2017,@215905 Is this happening with live TV or VOD and do you have the same issue on other TVs by chance? ^JRA,,,,,,,I12
+VZ-116,404384,Mon Oct 09 21:01:24 +0000 2017,@VerizonSupport Well I’ve been trying to update a game on Xbox and it’s been 30mins and it’s only on 14% while it take under 5mins for my friends,404383,Mon Oct 09 21:07:55 +0000 2017,"@211712 Are you connected wired or wirelessly. Are there any other devices connected to the network currently streaming or online gaming?
+^HSB",,,,,,,I12
+VZ-117,1621552,Sun Nov 05 16:35:03 +0000 2017,"@115722 you have got to be kidding me, my Set Top box has no connectivity as i am about to watch a game 🚮🚮🚮",1621551,Sun Nov 05 16:36:30 +0000 2017,@496870 We can help with this.  Can you try to reseat the cables on the back including the power cable? ^BCW,,,,,,,I03
+VZ-118,757648,Sat Oct 07 01:00:34 +0000 2017,@115722 you have any good deals since @115900 seems to have outages far too often? Not like I was in the middle of a raid or anything,757650,Sat Oct 07 01:01:56 +0000 2017,"@301069 We do, check out our website below. Let us know if you have any questions, we are only a tweet away.
+https://t.co/Am3Yv3ltyW
+
+^TNT",,,,,,,I01
+VZ-119,2985953,Thu Nov 30 07:39:08 +0000 2017,"@VerizonSupport I'm a graduate student and must work from home tomorrow sure to approaching final exams. My bill is passed due as of today. Can you, or of good faith, make sure service is not suspended?",2985954,Thu Nov 30 07:41:29 +0000 2017,"@823336 Please send us a DM. 
+^TXA",,,,,,,I07
+VZ-120,552891,Sat Dec 02 19:25:39 +0000 2017,I blew a fuse lol my bad fios we good,552890,Sat Dec 02 19:50:00 +0000 2017,"@248946 Whew! Had us worried for sec. Keep us posted if something changes.
+^JAY",,,,,,,I12
+VZ-121,2411143,Tue Nov 14 16:23:05 +0000 2017,@VerizonSupport All resolved actually. Thanks for getting back :),2411142,Tue Nov 14 16:26:25 +0000 2017,"@383783 No worries at all, my friend.  We're always here for you :) ^BCW",,,,,,,I12
+VZ-122,289873,Sun Oct 08 03:19:00 +0000 2017,@VerizonSupport I have no idea what that means. Would whoever hooked it up have done that?,289875,Sun Oct 08 03:20:55 +0000 2017,@185053 Can you do a hard reset to the router? Press and hold the red reset button on the back of the router for 10 seconds with a paper clip. ^FEM,,,,,,,I12
+VZ-123,1753907,Tue Nov 07 18:42:22 +0000 2017,Amazing @115725. U send me email stating if u don’t hear back svc will end. Email says do not reply and has no contact number!!! Nice work,1753906,Tue Nov 07 18:47:24 +0000 2017,"@528264 Can you take a pic of the email and post it here? You can follow and DM us with it. 
+^ADP",,,,,,,I12
+VZ-124,48423,Sat Nov 11 06:07:22 +0000 2017,@VerizonSupport I will gladly when it occurs. This is always the issue; it is not consistent. I've asked that my equipment and fiber run be checked to no avail.,48422,Sat Nov 11 06:10:29 +0000 2017,"@126784 Thanks, once we get that we will be able to see where the problem is occuring at. 
+^FEM",,,,,,,I03
+VZ-125,2521117,Sun Nov 26 20:15:24 +0000 2017,@VerizonSupport Now nothing comes up.,2521119,Sun Nov 26 20:18:00 +0000 2017,"@718073 If we are working on this issue, we will get it cared for as quickly as possible. Sorry for the delay. ^RMD",,,,,,,I12
+VZ-126,738659,Wed Oct 11 12:53:48 +0000 2017,"Hey, @115722, here's an idea: how about offering a no-sports cable package? Bet its popularity would surprise you.",738656,Wed Oct 11 12:58:00 +0000 2017,@150854 Thank you for your feedback. You may be interested in our custom TV packages. https://t.co/ikhxx1kEyC ^CAR,,,,,,,I04
+VZ-127,1187567,Wed Oct 25 00:16:23 +0000 2017,@VerizonSupport im SIXTEEN WHAT DOES THAT EVEN MEAN WTFF https://t.co/6ocZ6zZBsg,1187569,Wed Oct 25 00:21:26 +0000 2017,@399244 Check your bill to verify. Services in Florida are now with Frontier Communications. ^JRA,,,,,,,I12
+VZ-128,1740415,Tue Oct 17 20:40:34 +0000 2017,"@VerizonSupport Thanks! Internet's back up. It's still acting like it needs a cup of coffee, but I see life!",1740416,Tue Oct 17 20:42:30 +0000 2017,@423397 Are you getting worthwhile wired spedtests at this point? ^RMD,,,,,,,I07
+VZ-129,926510,Sat Oct 21 14:24:40 +0000 2017,@339843 @115722 I agree their customer service SUCKS but having 950ish Meg up and down is worth it sometimes.,927368,Sat Oct 21 14:30:31 +0000 2017,"@340038 We want our cusotmers to feel they can depend on us for great customer service. Is there something we can help you with?
+^TXA",,,,,,,I11
+VZ-130,2974547,Thu Nov 30 02:07:40 +0000 2017,"@VerizonSupport you guys sent a creepy door2door guy to my house, who said some REALLY inappropriate stuff to my wife. May want to reply to me and prep for State Police investigation",2974546,Thu Nov 30 02:09:57 +0000 2017,"@820352 Oh no, our apologies as we never want to hear this. Please follow us and send a DM so we may verify some info with you to start our investigation. ^JRA",,,,,,,I12
+VZ-131,11526,Fri Dec 01 00:51:40 +0000 2017,"@VerizonSupport what channel is the Sixers game on if it's Blacked out on NBA tv??? 08901
+@1638",11525,Fri Dec 01 00:54:23 +0000 2017,"@118215 Try searching the guide using the ""B"" button for your local line up.  ^JRA",,,,,,,I04
+VZ-132,1301039,Fri Oct 27 00:30:31 +0000 2017,@VerizonSupport The app is “unable to authorize” my phone number...?,1301041,Fri Oct 27 00:33:00 +0000 2017,"@424076 Are you using the myFios app or myVerizon app? Is the internet light currently lit on your router? If so, what color is it?
+^HSB",,,,,,,I12
+VZ-133,1468857,Fri Nov 03 00:12:41 +0000 2017,@VerizonSupport Yes all my tv's and I have reset one of the boxes too and still not working,1468859,Fri Nov 03 00:16:00 +0000 2017,@460939 What do you see on your screen when you try to watch ESPN? ^DDD,,,,,,,I04
+VZ-134,2953226,Wed Nov 29 17:51:30 +0000 2017,@VerizonSupport @115725 spoke to the Amazing Nicole White from your customer service and got it all taken care of for the most part. She was so helpful and actually listen to my issue with Verizon. Thank you,2953225,Wed Nov 29 17:52:55 +0000 2017,@815394 Awesome!  ^CAR,,,,,,,I11
+VZ-135,1503661,Sun Nov 26 02:02:44 +0000 2017,@115722 when are you coming to Virginia Beach near Oceania?,1503659,Sun Nov 26 02:03:56 +0000 2017,"@469004 You can check on Fios availability here:  https://t.co/O9rpiQXIL7  If it says it is not available you can sign up to be notified when it becomes available. 
+^FEM",,,,,,,I12
+VZ-136,1100667,Mon Oct 23 22:38:39 +0000 2017,Hey @VerizonSupport tryin 2move services 2new addres Spent 2h chat+phone Agents tell me bill will go up27% Should I switch 2 @Ask_Spectrum ?,1100663,Mon Oct 23 22:41:31 +0000 2017,"@379687 Have you tried checking our website below and placing an order online?
+https://t.co/ewZ02B8Gpp
+
+^TNT",,,,,,,I07
+VZ-137,2065621,Sat Oct 07 23:50:38 +0000 2017,Why is episode 2 of @182483 for purchase but episode 1 and 3 are free? I am not pleased @115722 @691,2065619,Sat Oct 07 23:53:00 +0000 2017,@610849 Have you had an opportunity to use your Fios Credentials on either their website or apps to see if it is being provided for free? ^JRA,,,,,,,I12
+VZ-138,1592301,Sun Nov 05 01:28:39 +0000 2017,@VerizonSupport Well it did! I’ve ordered PPVs for 5 yrs and never had an  issue but we cancel HBO &amp; now we have an issue? Can you confirm my acct is set up,1592302,Sun Nov 05 01:30:54 +0000 2017,@489450 We would have to take a closer look at the account. Please follow and DM us. ^RMD,,,,,,,I04
+VZ-139,2231527,Fri Nov 10 17:50:30 +0000 2017,"Dear @115725 we are being receiving threatening calls from you about cutting off services. I'm trying to call, please help.",2231525,Fri Nov 10 17:51:55 +0000 2017,"@247349 Oh no!!  Is this for residential or wireless phone service?
+^TDC",,,,,,,I12
+VZ-140,14162,Wed Nov 01 02:19:58 +0000 2017,@VerizonSupport still waiting on that call back from 30 hours ago.,14161,Wed Nov 01 02:23:00 +0000 2017,"@118997 Hello Greg, Is this in reference to your home or wireless account?
+^NHP",,,,,,,I12
+VZ-141,2597520,Fri Nov 17 04:17:07 +0000 2017,"@115722 Not sure if it's my personal router or what, been happening since this morning.",2597518,Fri Nov 17 04:21:29 +0000 2017,@382165 Thank you. Are the router lights turning red when you lose connection? ^DDD,,,,,,,I03
+VZ-142,811880,Thu Oct 12 19:33:55 +0000 2017,@115725 is it free to change my number?,811879,Thu Oct 12 19:35:29 +0000 2017,"@313450 Is it for your cellular or residential services?
+^TNT",,,,,,,I12
+VZ-143,1739491,Tue Nov 07 16:26:57 +0000 2017,@VerizonSupport yes the router has been red. the cable box also does not turn on/show a channel. We have tried restarting both.,1739490,Tue Nov 07 16:31:00 +0000 2017,@524962 Can you locate the battery backup unit for our services?  We want to see what lights are lit on that device. ^BCW,,,,,,,I04
+VZ-144,709280,Tue Oct 10 21:11:55 +0000 2017,@VerizonSupport This is an old woman who needs her landline for medical reasons.  Very unacceptable.,709282,Tue Oct 10 21:16:28 +0000 2017,"@289590 We can only work through the social space are you able to call in on her behalf? We are unable to access her info with safeguarding.
+^JAY",,,,,,,I09
+VZ-145,2978088,Tue Oct 31 21:01:43 +0000 2017,@VerizonSupport the wifi device,2978089,Tue Oct 31 21:05:29 +0000 2017,"@821333 We are referring to the devices you are trying to connect with.
+^JAY",,,,,,,I12
+VZ-146,2451262,Wed Nov 15 03:30:13 +0000 2017,@VerizonSupport And it says no outage but I’m guessing most of the people on support with no internet are in the same area.,2451265,Wed Nov 15 03:31:29 +0000 2017,"@702448 What lights are on the router? 
+^BAB",,,,,,,I01
+VZ-147,717849,Wed Oct 11 00:48:23 +0000 2017,@VerizonSupport appears Verizon is winning in the slow internet game. Why is my system buffering as if we are still in the 90s? Switching...,717847,Wed Oct 11 00:51:28 +0000 2017,"@291896 Good evening, let's take a look. Was that from wired or wireless? ^RMD",,,,,,,I02
+VZ-148,2187329,Thu Nov 09 17:26:42 +0000 2017,@VerizonSupport i feel i am not going to like the response your phone rep is going to give me. better to not opt anyone in to renewals if it will cost them money to get out. better let them renew when they become aware they are no longer part of a plan.,2187327,Thu Nov 09 17:29:29 +0000 2017,"@640541 What's going on?  Are you having an issue with trying to renewal your account?  We can address your issues here.  
+^CAR",,,,,,,I07
+VZ-149,2446692,Wed Nov 15 01:10:50 +0000 2017,"@VerizonSupport my WiFi hasn’t been working all day, I have unplugged the router like 50 times and nothing has changed. Can you help me out?",2446690,Wed Nov 15 01:13:29 +0000 2017,@701395 Let's take a look. Any red lights on your router when this happens? ^RMD,,,,,,,I03
+VZ-150,307751,Fri Oct 06 23:52:27 +0000 2017,@VerizonSupport As of this moment i dont have a replacement on the way and im still being charged a surcharge and the original down payment for the device,307749,Fri Oct 06 23:54:53 +0000 2017,"@189479 Let us get this over to our wireless counterparts for all your mobile concerns @115990.
+^NHP",,,,,,,I07
+VZ-151,1621483,Sun Nov 05 16:58:07 +0000 2017,@VerizonSupport have a problem with device and bill..help!,1621482,Sun Nov 05 16:59:27 +0000 2017,@496863 We can look into this for you.  Is this for your cellular or residential service? ^BCW,,,,,,,I07
+VZ-152,1555526,Sun Nov 26 03:23:26 +0000 2017,@115722 So I can’t watch this TV show on my TV?,1555525,Sun Nov 26 03:24:53 +0000 2017,"@481026 If they do not have it up On Demand at this time you would not be able to view it on the TV.
+^FEM",,,,,,,I04
+VZ-153,828151,Fri Oct 13 01:47:15 +0000 2017,"Constant outages, highrental fees, overly priced packages&amp;now SUPER limited channels,can’t wait for fios hookup @Ask_Spectrum cc: @72171 https://t.co/wXIcDYcMYM",828150,Fri Oct 13 01:52:31 +0000 2017,"@317287 Sounds like it is time to join the Fios team! Availability and deals can be checked here https://t.co/Xh7BOL3CVQ 
+^HSB",,,,,,,I07
+VZ-154,403277,Mon Oct 09 20:29:43 +0000 2017,@115725 Yes! We've had it all since last Monday.,403276,Mon Oct 09 20:35:00 +0000 2017,"@211431 Thank you for confirming. Can you please follow and DM us so that we can investigate this further?
+^HSB",,,,,,,I12
+VZ-155,1695830,Mon Nov 06 17:58:23 +0000 2017,@VerizonSupport what's your support phone number where I can talk to a human being?,1695828,Mon Nov 06 18:01:00 +0000 2017,"@514484 If you would like to speak to a representative concerning this issue, please contact our support team at 1-800-837-4966
+
+^CAR",,,,,,,I12
+VZ-156,1483921,Fri Nov 03 12:13:16 +0000 2017,@225239 @115725 @VerizonSupport @115722 Boy that’s some doo doo,1496384,Fri Nov 03 12:14:25 +0000 2017,"@467415 Let us know if you need any assistance. 
+^ADP",,,,,,,I12
+VZ-157,2239396,Thu Nov 30 19:51:11 +0000 2017,@VerizonSupport I'm already following you 😑😑😑😑,2239394,Thu Nov 30 19:52:27 +0000 2017,@652954 Awesome! Please feel free to DM us at your convenience. Let's find out what's going on with your technician. ^DDD,,,,,,,I12
+VZ-158,2973112,Thu Nov 30 01:30:06 +0000 2017,"@VerizonSupport For the past two weeks I've experienced a very weak signal at my home where I work (zip: 95835) and, as a result, keep dropping calls or losing reception. Please advise.",2973111,Thu Nov 30 01:33:00 +0000 2017,"@819977 We'll refer this to our wireless colleagues @115990 since we handle Fios and DSL accounts. They will be in touch
+^HSB",,,,,,,I02
+VZ-159,1681333,Mon Nov 06 16:08:41 +0000 2017,"@115722 really sucks, we just had an internet problem, and now our phones or our gaming consoles can't connect even when we try to...",1681331,Mon Nov 06 16:10:28 +0000 2017,@511173 We can help with this.  Is the internet still out at your house? ^BCW,,,,,,,I12
+VZ-160,2115097,Wed Nov 08 17:06:35 +0000 2017,"@VerizonSupport Ok , understood",2115095,Wed Nov 08 17:12:27 +0000 2017,@563039 Let us know if that helps. ^DDG,,,,,,,I12
+VZ-161,870960,Fri Oct 13 15:31:58 +0000 2017,"@115722 Is there an outage in Newark, DE, USA right now? Hopefully construction on pleasant valley rd didn't cut your lines!",870959,Fri Oct 13 15:34:00 +0000 2017,"@326795 We don't have any reports. Please check here. https://t.co/tdPvxRi4pe  to see if there are any local outages in your area.
+^TDC",,,,,,,I01
+VZ-162,772134,Thu Oct 12 00:44:31 +0000 2017,@VerizonSupport Says there's an outage in my area.,772137,Thu Oct 12 00:47:28 +0000 2017,"@304428 Can you send us a picture of the message on the TV?
+^HSB",,,,,,,I01
+VZ-163,901288,Sat Oct 21 05:00:41 +0000 2017,"@VerizonSupport No, all the lights are green.",901290,Sat Oct 21 05:03:53 +0000 2017,@333963 Is this in reference to your DSL or Fios service? ^NHP,,,,,,,I12
+VZ-164,1039441,Mon Oct 23 02:58:44 +0000 2017,@126787 I hope this gets resolved soon. I'm missing my favorite shows. @115722 being the channel has been discontinued do customers get credit?,1039440,Mon Oct 23 03:01:29 +0000 2017,"@196657 Hi Nadeen, can you follow and DM back for support?
+^FEM",,,,,,,I07
+VZ-165,831421,Fri Oct 13 04:37:50 +0000 2017,@VerizonSupport Wired device? Its 2017 i dont have anything connected via Ethernet.,831419,Fri Oct 13 04:41:00 +0000 2017,"@317998 Can you get as close as possible to the router and test with a device connected to the 5GHZ networ?
+^TXA",,,,,,,I12
+VZ-166,1653688,Tue Oct 17 14:15:01 +0000 2017,@115722 Annabelle Creation was supposed to be ondemand today....where is it???,1653687,Tue Oct 17 14:18:00 +0000 2017,@504778 Once the provider releases it to us we will have that up there. ^BCW,,,,,,,I12
+VZ-167,1283472,Thu Oct 26 18:08:46 +0000 2017,"@VerizonSupport Wait, I see it had to do with my account being suspended, then restore.",1283473,Thu Oct 26 18:13:28 +0000 2017,"@420232 That means you will not see it on multiple bills unless it is split charges 1of 3, 2 of 3, or 3 of 3.
+^JAY",,,,,,,I12
+VZ-168,2768663,Tue Nov 21 12:25:00 +0000 2017,@VerizonSupport okay i did that,2768664,Tue Nov 21 12:28:00 +0000 2017,"@774134 Is it woring now?
+^TXA",,,,,,,I12
+VZ-169,747104,Wed Oct 11 17:10:14 +0000 2017,"@VerizonSupport What is the make and model of your router? And, ANY router is good for internet WITH the Verizon router?",747105,Wed Oct 11 17:16:41 +0000 2017,@298608 Our router is just a standard Ethernet router with a Moca port for TV service and some software tweaks to optimize it for our service. ^KMG,,,,,,,I03
+VZ-170,1215313,Mon Oct 16 13:27:35 +0000 2017,@VerizonSupport How? The channel does not appear in the mobile guide.,1215315,Mon Oct 16 13:29:52 +0000 2017,@123908 Are you checking under TV listings?  ^CAR,,,,,,,I04
+VZ-171,2962189,Wed Nov 29 21:13:22 +0000 2017,@115722 I'm in a Verizon store because I've been trying to call Fios customer service for three weeks now. Are you kidding me? I was told I have to call 1-800-Verizon.BTDT.Think I'll just change providers at this point.Let them do it for me. #verizonstoreisempty Wonder why.,2962188,Wed Nov 29 21:15:31 +0000 2017,"@244492 We are right here to help, what is going on?
+^ACM",,,,,,,I11
+VZ-172,2100470,Wed Nov 08 04:24:22 +0000 2017,@VerizonSupport PM me and I’ll tell you.,2100468,Wed Nov 08 04:26:52 +0000 2017,"@524896 We have followed you but we cannot DM until you follow us. 
+^HSB",,,,,,,I12
+VZ-173,900478,Fri Oct 13 19:33:06 +0000 2017,@VerizonSupport Website or their content servers?   There's a difference ;),900479,Fri Oct 13 19:36:31 +0000 2017,"@333762 The website please.
+^JAY",,,,,,,I12
+VZ-174,2115084,Wed Nov 08 17:39:33 +0000 2017,"@VerizonSupport I'm currently paying $100/month for 100mbps if you can beat that, you have my business!",2115087,Wed Nov 08 17:42:30 +0000 2017,@623575 How about this? https://t.co/vuiFUV71HC ^KMG,,,,,,,I02
+VZ-175,12820,Wed Nov 01 01:40:00 +0000 2017,"@115722 your wonderful service won't let me watch Fox, so I can't watch the World Series ..thanks",12819,Wed Nov 01 01:41:27 +0000 2017,"@118595 Oh no, do you get an error and does it happen on all TVs? ^JRA",,,,,,,I12
+VZ-176,282618,Fri Oct 06 13:38:49 +0000 2017,@VerizonSupport Nope. That didn't work. Still having the same issue.,282620,Fri Oct 06 13:43:00 +0000 2017,"@183335 You will need to go to help in the app and submit a ticket. 
+^TDC",,,,,,,I12
+VZ-177,18560,Wed Nov 01 05:27:40 +0000 2017,@116021 raising rates on internet... again. Just biding my time until @115725 or some other ISP creeps into the neighborhood with ANYTHING reasonable.,18558,Wed Nov 01 05:32:00 +0000 2017,"@120136 We'd definitely value the opportunity to be your service provider. 
+^BAB",,,,,,,I04
+VZ-178,557457,Sat Dec 02 21:00:21 +0000 2017,@VerizonSupport can you please help me activate a new phone i have the device id and the sim id,557455,Sat Dec 02 21:05:00 +0000 2017,"@250180 We understand your concerns, let us partner you with @115990. 
+^ADP",,,,,,,I05
+VZ-179,755246,Wed Oct 11 18:02:53 +0000 2017,My less then 6 month old @VerizonSupport cable box needs to be reset to turn it on....yeah,755245,Wed Oct 11 18:09:28 +0000 2017,@300522 That's not good at all! Please follow and DM so we can continue. ^DDG,,,,,,,I04
+VZ-180,2326998,Mon Nov 13 04:33:43 +0000 2017,Gotta reset my Wi-Fi AGAIN..! why..? @VerizonSupport,2326997,Mon Nov 13 04:36:30 +0000 2017,@673916 Let's run some tests on your line. Do you still have the secure chat link previously provided through DM? ^DDD,,,,,,,I12
+VZ-181,1093978,Mon Oct 23 23:25:59 +0000 2017,@VerizonSupport Yes they have. Each person we spoke to wouldn’t reverse the charges,1093979,Mon Oct 23 23:32:37 +0000 2017,@378196 Thank you.  Please follow and DM us so we can discuss further. ^DDD,,,,,,,I07
+VZ-182,1606651,Sun Nov 05 02:17:36 +0000 2017,@115722 help I can’t order the fight,1606650,Sun Nov 05 02:19:25 +0000 2017,@493539 What happens when you try to order it? ^DDD,,,,,,,I12
+VZ-183,1569339,Sat Nov 04 16:26:34 +0000 2017,@VerizonSupport on hold last night for over an hour. Currently on hold for 37 mins. Spend too much $$ on fios for this poor support!,1569337,Sat Nov 04 16:33:32 +0000 2017,"@397015 Hi Dan, what is going on?
+^ADP",,,,,,,I11
+VZ-184,2935633,Wed Nov 29 10:37:01 +0000 2017,"@115725 hey quick question. Do you guys screw over a lot of military members while they are deployed, or was it just me? Is it also standard practice for you to learn the mistake was in your end and still attempt to charge people?? Or am I like your 1000000 customer?",2935629,Wed Nov 29 10:41:26 +0000 2017,@811618 Oh no! What happened? We would like to help. ^KMG,,,,,,,I07
+VZ-185,2343453,Mon Nov 13 15:19:17 +0000 2017,How my cable bill go from low 200 now it's 300 @115900 I'm goin back to @115725 they go more channels and @144844,2343452,Mon Nov 13 15:22:55 +0000 2017,@677779 We'd love to have you join the family. ^BCW,,,,,,,I07
+VZ-186,97909,Fri Dec 01 02:19:24 +0000 2017,@VerizonSupport Still terrible. I dare you to fix this,97911,Fri Dec 01 02:26:00 +0000 2017,@137463 Initiate another chat since the last session was dropped. ^JRA,,,,,,,I12
+VZ-187,989243,Wed Oct 11 23:30:48 +0000 2017,"@VerizonSupport Your DVR does not let me record a time, it forces me I record a program at a specific time. This is bad.",989241,Wed Oct 11 23:37:30 +0000 2017,@354370 When you record the program are you setting the recording for the allotted time before and after the show? ^NHP,,,,,,,I12
+VZ-188,1176874,Wed Oct 25 01:50:08 +0000 2017,@VerizonSupport https://t.co/TFTch2CePZ here is the speed test and to  be exact im trying to upload to rtmp services  ie: twitch and getting frame drops,1176875,Wed Oct 25 01:54:30 +0000 2017,"@396819 We're unable to open the link you provided.
+^NHP",,,,,,,I02
+VZ-189,2733461,Mon Nov 20 16:47:40 +0000 2017,"@VerizonSupport Ok so we not doing same thing as when I call in, multiple transfer without resolution. I need a technician sent to my home to fix issue that tech caused by chaning old power box.",2733462,Mon Nov 20 16:53:30 +0000 2017,"@766172 You can DM us now. 
+^ADP",,,,,,,I08
+VZ-190,147692,Fri Nov 24 14:26:28 +0000 2017,@115722 locked out of my account on #blackfriday and no one is picking up the phone.  On hold for an hour. #verizonsucks.,147691,Fri Nov 24 14:29:28 +0000 2017,"@149568 Is this for residential or wireless phone service?
+^TDC",,,,,,,I11
+VZ-191,354212,Sun Oct 08 14:32:55 +0000 2017,@VerizonSupport Already did. Same result,354213,Sun Oct 08 14:36:00 +0000 2017,"@200223 Have you tested your speeds at https://t.co/tU7x1jhfFu?
+^TXA",,,,,,,I12
+VZ-192,1724595,Tue Nov 07 04:26:44 +0000 2017,"@VerizonSupport Okay great, thanks so much.",1724594,Tue Nov 07 04:28:28 +0000 2017,"@521623 You're welcome Briana.
+^NHP",,,,,,,I12
+VZ-193,2521279,Thu Nov 16 01:02:40 +0000 2017,@717480 @717481 @115725 Oh and sorry @717481 for dragging you into this. I’ll have a wee dram now to get over the appalling @115725 dsl internet speeds.,2521278,Thu Nov 16 01:04:29 +0000 2017,@717479 Post your wired results as we cannot work with the wireless results. Are the wired results close to your provisioned speeds? ^JRA,,,,,,,I02
+VZ-194,436692,Tue Oct 10 16:58:38 +0000 2017,@115722 why did you leave California in the crappy hands of @4165 ? 😢,436691,Tue Oct 10 17:01:27 +0000 2017,@218711 We no longer service that area. Please visit https://t.co/s486BTLWpD for support. ^CAR,,,,,,,I12
+VZ-195,2846850,Mon Nov 27 18:02:58 +0000 2017,"With my current @115722 plan I’m allegedly supposed to get an upload speed of 75Mbps yet this is the typical speed. Usually it’s less actually. It’s making me think it’s time to switch to another provider.  Rebooting my modem is futile, too. https://t.co/AmXdEs72iA",2846849,Mon Nov 27 18:04:25 +0000 2017,@791781 That is frustrating.  Did you perform test from a cell phone?  ^CAR,,,,,,,I03
+VZ-196,401916,Mon Oct 09 20:09:14 +0000 2017,@VerizonSupport what could you use?,401917,Mon Oct 09 20:15:28 +0000 2017,"@211054 What is the order for? Is this for your Verizon residential or Verizon wireless mobile?
+^ADP",,,,,,,I12
+VZ-197,1549782,Sat Nov 04 11:59:31 +0000 2017,@VerizonSupport why are my services down? No internet no TV tried resetting both no luck,1549781,Sat Nov 04 12:01:25 +0000 2017,"@479684 We are sorry to hear your services is down. What message are you getting on the TV?
+^ADP",,,,,,,I04
+VZ-198,514327,Sat Dec 02 16:25:07 +0000 2017,@VerizonSupport where would i find that information,514328,Sat Dec 02 16:29:30 +0000 2017,"@238426 You can log into your https://t.co/vtL2yb1V1f account and click on Services &gt; Internet.
+^ACM",,,,,,,I12
+VZ-199,14146,Wed Nov 01 02:20:56 +0000 2017,@118995 @115900 BOOOOOOOOOOOOOOOOOOOO! Respond or we’re out. Heard Verizon is fire.,14145,Wed Nov 01 02:23:31 +0000 2017,@118994 Let us know if we can be of assistance. ^RMD,,,,,,,I12
+VZ-200,1532015,Tue Oct 17 01:36:56 +0000 2017,@115725 I have been experiencing very slow service. Would you mind explaining as to why this has occurred?,1532013,Tue Oct 17 01:38:26 +0000 2017,"@475226 Hi Pookie, are you having a problem with Verizon wireless or Fios?
+^FEM",,,,,,,I12

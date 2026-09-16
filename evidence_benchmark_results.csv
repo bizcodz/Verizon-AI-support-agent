@@ -1,0 +1,51 @@
+﻿case_id,gold_intent,customer_text,top1_similarity,top1_relevant,top1_actionable,top1_safe_to_ground,any_relevant,any_actionable,any_safe_to_ground
+VZ-010,I02,@115722 can you please tell me why I keep on disconnecting from my router I thought your server was the best internet in the world?!?!?,1.0,YES,YES,YES,True,True,True
+VZ-016,I04,@VerizonSupport No just the on demand,1.0,YES,YES,YES,True,True,True
+VZ-017,I04,we pay $200 a month for cable and Bein sports isn’t even HD. @115900 is straight trash. i’m going back to verizon,1.0,YES,YES,YES,True,True,True
+VZ-019,I05,@VerizonSupport 4G LTE extender still not working. Talked with support for an hour last night but no response yet after a ticket was supposed to be created...,1.0,YES,YES,YES,True,True,True
+VZ-020,I02,"@VerizonSupport It's to everything and at random times. It can last for a couple of hours or a couple of days. Right now it seems to have subsided from where it was when I initially tweeted, so doing a tracert isn't showing anything unusual. Ping shows some random delay getting to Google https://t.co/JV04H9IYBZ",1.0,YES,YES,YES,True,True,True
+VZ-025,I04,@115722 So I can’t watch this TV show on my TV?,1.0,YES,YES,YES,True,True,True
+VZ-030,I04,"@VerizonSupport so many problems with FIOS TV. viz: when a program scheduled for DVR is delayed, the desired recording is not made.",0.2964,NO,NO,NO,True,True,True
+VZ-031,I01,@VerizonSupport - are you having an outage? All my services are down and I've been on hold for a while waiting to speak with someone.,1.0,YES,YES,YES,True,True,True
+VZ-039,I11,Can't wait to cancel my @115722. This is the right choice. https://t.co/eIJnhuRvIc,1.0,YES,YES,YES,True,True,True
+VZ-046,I12,@VerizonSupport Back to @116602 losers,0.0,NO,NO,NO,False,False,False
+VZ-056,I11,@VerizonSupport Been on hold on a Verizon Store using your locations phone. What's the excuse? https://t.co/KF9G3MVMdg,0.5419,YES,YES,YES,True,True,True
+VZ-057,I09,@VerizonSupport I would like to turn off my voicemail feature. Is there any way I can do this w/out calling?,1.0,YES,YES,YES,True,True,True
+VZ-061,I11,@VerizonSupport This has been ongoing since April and it is unacceptable.,1.0,YES,NO,YES,True,False,True
+VZ-066,I07,"@115722 After 7 calls to you since August due to an error on your end attempting to charge me $25 more than I signed a contract for, I've been promised 2 callbacks and a $50 credit. Apparently being a loyal customer means nothing.",1.0,YES,YES,YES,True,True,True
+VZ-067,I03,"@VerizonSupport Yes, it's next to the router.",1.0,YES,YES,YES,True,True,True
+VZ-068,I12,"@VerizonSupport I plan on returning an item, and might have lost my Receipt do I need that for a return",1.0,YES,YES,YES,True,True,True
+VZ-069,I02,@115725 what happened to you? I remember when I used to get 50mb down. Now this. No good. https://t.co/X9jDS0FoIf,0.326,NO,NO,NO,False,False,False
+VZ-070,I09,@VerizonSupport My optimum landline is fine,1.0,YES,YES,YES,True,True,True
+VZ-076,I07,"@VerizonSupport It's more of something on my account billing, shoukd I just call support?",1.0,YES,YES,YES,True,True,True
+VZ-077,I02,Check out my internet @55 @115725 I pay for gigabit internet. This has been my speed for the last 3 days!😡 https://t.co/GljSfyBJk9,1.0,YES,YES,YES,True,True,True
+VZ-079,I02,@VerizonSupport it does not go red. I stream on a site called Twitch and it happens there the most. I do get disconnected offstream as well but not as often,1.0,YES,NO,NO,True,True,True
+VZ-080,I11,"I don't care what @47088 says, @115722 is a #garbageboy only good if you love being overcharged and stuck on the phone with customer service every month",0.3159,NO,NO,NO,True,True,True
+VZ-083,I03,"@VerizonSupport Correct. My router, direct Ethernet from your external box (no coax), all wired connections.",1.0,YES,YES,YES,True,True,True
+VZ-085,I12,@VerizonSupport Spoke to a rep in your business support dept tonight (sup was Amber). Guy deserves mad kudos! A+ Service. Doesn’t get better,0.3163,NO,NO,NO,False,False,False
+VZ-087,I11,"@VerizonSupport Im not sick in bed, im sick as in FED UP with your TERRIBLE customer service! Or are you seriously pretending you dont have my phone number?",0.3791,YES,YES,YES,True,True,True
+VZ-094,I02,@115722 Everytime I do a speed test on your website it fails at 95%,1.0,YES,YES,YES,True,True,True
+VZ-096,I12,@115990 do you guys have any good deals right now? @comcastcares is horrible and are not providing me with any good service at all!!!,1.0,YES,YES,YES,True,True,True
+VZ-105,I02,@403678 @368079 @115725 @VerizonSupport @119038 I upgraded to get 8 down and 2 up FeelsBadMan,0.3624,YES,YES,YES,True,True,True
+VZ-116,I08,Major fail today with #att #DIRECTV installation @ATT @117735 never happened!! #brokenpromises #sad there always #Verizon @115725,1.0,YES,YES,YES,True,True,True
+VZ-123,I10,@VerizonSupport Please contact me ASAP. Your field reps signed me up for Fios service this weekend but your online team says it was fraud,1.0,YES,NO,YES,True,True,True
+VZ-125,I02,@VerizonSupport Insanely slow doesnt even reach half my house goes out multiple times a day for no reason and gives me a fifth the download speed i pay for,1.0,YES,YES,YES,True,True,True
+VZ-126,I02,@VerizonSupport how can I directly connect? Do you know why I have such slow speed?,1.0,YES,YES,YES,True,True,True
+VZ-129,I12,@VerizonSupport Was adding cable already previous internet service but Maybe have a rational customer service representative call me?,0.3501,NO,NO,NO,False,False,False
+VZ-133,I11,"@115722 worst cust svc agent closing""Happy Thanksgiving despite inability to fix issue until next week-sarcasm not appreciated",1.0,YES,NO,YES,True,False,True
+VZ-136,I10,"@VerizonSupport Please tell me that this # I got on my Voice Mail was from your helpline? ""1-800-754-0961"" is this a real # that contacted me and can it be trusted? I really don't want scammed and am looking forward to your reply. Thank you. #help",0.315,NO,NO,NO,False,False,False
+VZ-138,I07,I’m a long time @115722 customer and as a reward for being loyal &amp; trying to update bundle I get +$40 &amp; $50fee to return old eqpmnt😤,1.0,YES,YES,YES,True,True,True
+VZ-144,I03,"@VerizonSupport No dsl got a new router, phones work in outlets but not internet Modem light for dsl stays red. Were told no issues in lines",1.0,YES,YES,YES,True,True,True
+VZ-149,I06,"Every time I have to reach out to @VerizonSupport, I get a problem quickly and professionally resolved via live chat. Couldn't be happier.",0.2547,NO,NO,NO,False,False,False
+VZ-151,I11,"@VerizonSupport 45min wait for customer service...on the phone? See ya, will be canceling tomorrow. #wedontcare",0.7638,NO,NO,NO,True,True,True
+VZ-153,I12,@115725 @335871 Thank you for being transparent with the facts Verizon. I appreciate you!,1.0,YES,NO,YES,True,False,True
+VZ-159,I01,@115722 @VerizonSupport is there an outage in the 19446 area?,1.0,YES,YES,NO,True,True,True
+VZ-165,I04,"@VerizonSupport when switching channels, I sometimes get a ""popping"" noise through the TV.",1.0,YES,YES,YES,True,True,True
+VZ-166,I04,@VerizonSupport I only have 1 TV,1.0,NO,NO,NO,True,True,True
+VZ-171,I03,@VerizonSupport Sure! This is using the Verizon router. Same location. https://t.co/TEgHmEuybA,1.0,YES,YES,YES,True,True,True
+VZ-175,I11,@VerizonSupport No. I cancelled my service that is where all the trouble started,1.0,YES,YES,YES,True,True,True
+VZ-178,I03,@VerizonSupport Both. Seems like the modem is constantly connecting and reconnecting,1.0,YES,YES,YES,True,True,True
+VZ-183,I12,"So @Ask_Spectrum, are you trying to drive away all your customers? I'm done with your games and 'systemic schemes to defraud.' Hello, Fios! https://t.co/QDkCVmFyDL",0.4565,NO,NO,NO,False,False,False
+VZ-187,I04,Very disappointed that Univision isn’t available on @115722 I missed the latin awards #pissed #imnothappy,1.0,YES,YES,NO,True,True,False
+VZ-196,I05,"@VerizonSupport Im very disappointed by the lack of communication and customer service that I’ve received. After paying off my phone, instead of getting the upgrade I was promised, I was denied because my family plan reached a“credit limit”that was never previously discussed.",0.3795,NO,NO,NO,False,False,False
+VZ-198,I06,"@115725 For the last 24hrs I haven't been able to sign into my acct. on line, are you having any problems?",1.0,YES,YES,YES,True,True,True
